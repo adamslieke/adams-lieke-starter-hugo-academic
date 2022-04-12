@@ -28,7 +28,7 @@ item:
   date_start: "2022-02-14"
   description: ""
   organization: Google
-  organization_url: https://google.com/
+  organization_url: https://analytics.google.com/
   title: Certification Google analytics advanced
   url: "https://analytics.google.com/analytics/academy/"
 - certificate_url: https://analytics.google.com/analytics/academy/certificate/kFs7hR9yTMGkr4pquHiEBg
@@ -39,7 +39,7 @@ item:
   organization_url: https://google.com/
   title: Certification Google analytics beginners
   url: "https://analytics.google.com/analytics/academy/"
-- certificate_url: https://google.com/
+- certificate_url: https://analytics.google.com/
   date_end: "2021-07-01"
   date_start: "2020-06-01"
   description: ""
@@ -52,7 +52,7 @@ item:
   date_start: "2020-05-01"
   description: ""
   organization: Google
-  organization_url: https://google.com/
+  organization_url: https://ads.google.com/
   title: Certification Google adwords Shopping
   url: "https://skillshop.withgoogle.com/"
 - certificate_url: https://google.com/
@@ -60,7 +60,7 @@ item:
   date_start: "2020-05-01"
   description: ""
   organization: Google
-  organization_url: https://google.com/
+  organization_url: https://ads.google.com/
   title: Certification Google adwords display advertising
   url: "https://skillshop.withgoogle.com/"
 - certificate_url: https://google.com/
@@ -68,7 +68,7 @@ item:
   date_start: "2020-09-01"
   description: ""
   organization: Google
-  organization_url: https://google.com/
+  organization_url: https://ads.google.com/
   title: Certification Google adwords Video
   url: "https://skillshop.withgoogle.com/"
 - certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/40d39a3d618c34e81b6e443638fd46687dd64ff9?raw=1
