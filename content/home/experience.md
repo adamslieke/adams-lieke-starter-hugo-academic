@@ -28,7 +28,7 @@ experience:
     company_logo: 
     location: Den Bosch
     date_start: '2021-12-01'
-    date_end: ''
+    date_end:
     description: |2-
         Springbok is a Google Cloud certified partner that reinvents digital for ambitious brands. 
         Responsibilities include:
