@@ -23,55 +23,55 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://analytics.google.com/
+- certificate_url: https://analytics.google.com/analytics/academy/certificate/2y151TjGRT6rJcn6GPybug
   date_end: "2025-02-14"
   date_start: "2022-02-14"
   description: ""
   organization: Google
-  organization_url: https://analytics.google.com/
+  organization_url: https://google.com/
   title: Certification Google analytics advanced
   url: "https://analytics.google.com/analytics/academy/certificate/2y151TjGRT6rJcn6GPybug"
-- certificate_url: https://analytics.google.com/
+- certificate_url: https://analytics.google.com/analytics/academy/certificate/kFs7hR9yTMGkr4pquHiEBg
   date_end: "2025-01-03"
   date_start: "2022-01-03"
   description: ""
   organization: Google
-  organization_url: https://analytics.google.com/
+  organization_url: https://google.com/
   title: Certification Google analytics beginners
   url: "https://analytics.google.com/analytics/academy/certificate/kFs7hR9yTMGkr4pquHiEBg"
-- certificate_url: https://ads.google.com/
+- certificate_url: https://google.com/
   date_end: "2021-07-01"
   date_start: "2020-06-01"
   description: ""
   organization: Google
-  organization_url: https://ads.google.com/
+  organization_url: https://google.com/
   title: Certification Google adwords search
   url: ""
-- certificate_url: https://ads.google.com/
+- certificate_url: https://google.com/
   date_end: "2021-06-01"
   date_start: "2020-05-01"
   description: ""
   organization: Google
-  organization_url: https://ads.google.com/
+  organization_url: https://google.com/
   title: Certification Google adwords Shopping
   url: ""
-- certificate_url: https://ads.google.com/
+- certificate_url: https://google.com/
   date_end: "2021-06-01"
   date_start: "2020-05-01"
   description: ""
   organization: Google
-  organization_url: https://ads.google.com/
+  organization_url: https://google.com/
   title: Certification Google adwords display advertising
   url: ""
-- certificate_url: https://ads.google.com/
+- certificate_url: https://google.com/
   date_end: "2021-10-01"
   date_start: "2020-09-01"
   description: ""
   organization: Google
-  organization_url: https://ads.google.com/
+  organization_url: https://google.com/
   title: Certification Google adwords Video
   url: ""
-- certificate_url: https://www.datacamp.com
+- certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/40d39a3d618c34e81b6e443638fd46687dd64ff9?raw=1
   date_end: "2021-02-06"
   date_start: "2021-02-06"
   description: ""
