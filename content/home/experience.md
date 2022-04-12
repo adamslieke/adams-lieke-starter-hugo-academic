@@ -29,8 +29,7 @@ experience:
     location: Den Bosch
     date_start: '2021-12-01'
     date_end: ''
-    description: Springbok is a Google Cloud certified partner that reinvents digital for ambitious brands. 
-    |2-
+    description: Springbok is a Google Cloud certified partner that reinvents digital for ambitious brands. |2-
         Responsibilities include:
         
         * Building valid datasets, data flows, (customer specific) connections and tables.
@@ -47,8 +46,7 @@ experience:
     location: Tilburg
     date_start: '2020-12-01'
     date_end: '2021-11-30'
-    description: G-Promotion is a Google ads certified partner
-    | 2-
+    description: G-Promotion is a Google ads certified partner | 2-
         Responsiblities include:
         
         * The development of a new Wordpress website, creating designs and promotions materials for a new product line. 
@@ -61,8 +59,7 @@ experience:
     location: Breda
     date_start: '2020-09-01'
     date_end: '2020-12-01'
-    description: G-Promotion is a Google ads certified partner
-    | 2-
+    description: G-Promotion is a Google ads certified partner | 2-
         Responsiblities include:
         
         * Same responsibilities/skills as the Junior Online Marketeer.
