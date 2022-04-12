@@ -36,14 +36,61 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Online Marketing Manager
+    company: Lijmpartner B.V.
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Tilburg
+    date_start: '2020-12-01'
+    date_end: '2021-11-30'
+    description: | 2-
+        Responsiblities include:
+        
+        * The development of a new Wordpress website, creating designs and promotions materials for a new product line. 
+        * Maintainting social media accounts, optimizing (SEO) and maintaining the company websites, and generating online sales through a Wordpress webshop and via bol.com.
+  
+  - title: Senior Online Marketeer
+    company: G-Promotion
+    company_url: ''
+    company_logo: org-x
+    location: Breda
+    date_start: '2020-09-01'
+    date_end: '2020-12-01'
+    description: | 2-
+        Responsiblities include:
+        
+        * Same responsibilities/skills as the Junior Online Marketeer.
+        * Supervisor of the Junior Online Marketeers.
+        * Responsible for developing the planning, educating new employees and in charge of the budget allocation to different campaigns.
+
+  - title: Junior Online Marketeer
+    company: G-Promotion
+    company_url: ''
+    company_logo: org-x
+    location: Breda
+    date_start: '2019-12-01'
+    date_end: '2020-09-31'
+    description: | 2-
+        Responsiblities include:
+        
+        *  The development and optimization of SEO-websites and web shops.
+        * The development and optimization of Google Ads, Facebook ads and Instagram ads campaigns.
+        * Responsible for customer, developer and designer communication. 
+
+  - title: Marketing Intern Espresso
+    company: Philips Healthcare Benelux
+    company_url: ''
+    company_logo: org-x
+    location: Eindhoven
+    date_start: '2019-09-01'
+    date_end: '2020-02-28'
+    description: | 2-
+        Responsiblities include:
+        
+        *  Responsible for supporting the Marketing Manager Espresso.
+        * Responsible for new product launches, product demonstrations, analyses from the market/competition/consumers, marketing communication and developing assets for Philips Espresso and Saeco. 
+        * Developed skills with Outlook, Excel, Word and Powerpoint.
+
 
 design:
   columns: '2'
