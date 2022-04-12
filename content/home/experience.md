@@ -25,7 +25,7 @@ experience:
   - title: Data Engineer
     company: Springbok agency
     company_url: ''
-    company_logo: springbok
+    company_logo: 
     location: Den Bosch
     date_start: '2021-12-01'
     date_end: ''
