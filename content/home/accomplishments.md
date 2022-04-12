@@ -73,7 +73,7 @@ item:
   url: ""
 - certificate_url: https://www.datacamp.com
   date_end: "2021-02-06"
-  date_start: ""
+  date_start: "2021-02-06"
   description: ""
   organization: DataCamp
   organization_url: https://www.datacamp.com
@@ -81,7 +81,7 @@ item:
   url: "https://www.datacamp.com/statement-of-accomplishment/course/40d39a3d618c34e81b6e443638fd46687dd64ff9?raw=1"
 - certificate_url: https://www.datacamp.com
   date_end: "2021-02-17"
-  date_start: ""
+  date_start: "2021-02-17"
   description: ""
   organization: DataCamp
   organization_url: https://www.datacamp.com
@@ -89,12 +89,13 @@ item:
   url: "https://www.datacamp.com/statement-of-accomplishment/course/4ffadb22674c91561f31c15b858be03b042d2324"
 - certificate_url: https://www.datacamp.com
   date_end: "2021-04-18"
-  date_start: ""
+  date_start: "2021-04-18"
   description: ""
   organization: DataCamp
   organization_url: https://www.datacamp.com
   title: 'Introduction to Tidyverse'
   url: "https://www.datacamp.com/statement-of-accomplishment/course/f1c8a905df91ed5d7459cf4c95157d01899838f4"
+
 design:
   columns: '2' 
 ---
