@@ -28,17 +28,22 @@ experience:
     company_logo: 
     location: Den Bosch
     date_start: '2021-12-01'
-    date_end:
+    date_end: ''
     description: |2-
-        Springbok is a Google Cloud certified partner that reinvents digital for ambitious brands. 
+        Springbok is a Google Cloud certified partner that reinvents digital for 
+        ambitious brands. 
         Responsibilities include:
         
-        * Building valid datasets, data flows, (customer specific) connections and tables.
-        * Implementing and managing measurements, data flow’s and optimalization with Python and SQL.
+        * Building valid datasets, data flows, (customer specific) connections 
+        and tables.
+        * Implementing and managing measurements, data flow’s and optimalization 
+        with Python and SQL.
         * Perform periodic or ad hoc data-analyses in Big Data.
-        * Signal and pro-actively search for opportunities for optimalizations, conversions, segmentation or automation.
+        * Signal and pro-actively search for opportunities for optimalizations, 
+        conversions, segmentation or automation.
         * Develop data flow’s with cloud infrastructures.
-        * Develop dashboards and tools for customers in order to visualise the data in a comprehensible and easy way.
+        * Develop dashboards and tools for customers in order to visualise the 
+        data in a comprehensible and easy way.
         
   - title: Online Marketing Manager
     company: Lijmpartner B.V.
@@ -51,8 +56,11 @@ experience:
         G-Promotion is a Google ads certified partner 
         Responsiblities include:
         
-        * The development of a new Wordpress website, creating designs and promotions materials for a new product line. 
-        * Maintainting social media accounts, optimizing (SEO) and maintaining the company websites, and generating online sales through a Wordpress webshop and via bol.com.
+        * The development of a new Wordpress website, creating designs and 
+        promotions materials for a new product line. 
+        * Maintainting social media accounts, optimizing (SEO) and maintaining 
+        the company websites, and generating online sales through a Wordpress 
+        webshop and via bol.com.
   
   - title: Senior Online Marketeer
     company: G-Promotion
@@ -67,7 +75,8 @@ experience:
         
         * Same responsibilities/skills as the Junior Online Marketeer.
         * Supervisor of the Junior Online Marketeers.
-        * Responsible for developing the planning, educating new employees and in charge of the budget allocation to different campaigns.
+        * Responsible for developing the planning, educating new employees and 
+        in charge of the budget allocation to different campaigns.
 
   - title: Junior Online Marketeer
     company: G-Promotion
@@ -80,7 +89,8 @@ experience:
         Responsiblities include:
         
         * The development and optimization of SEO-websites and web shops.
-        * The development and optimization of Google Ads, Facebook ads and Instagram ads campaigns.
+        * The development and optimization of Google Ads, Facebook ads and 
+        Instagram ads campaigns.
         * Responsible for customer, developer and designer communication. 
 
   - title: Marketing Intern Espresso
@@ -94,7 +104,9 @@ experience:
         Responsiblities include:
         
         * Responsible for supporting the Marketing Manager Espresso.
-        * Responsible for new product launches, product demonstrations, analyses from the market/competition/consumers, marketing communication and developing assets for Philips Espresso and Saeco. 
+        * Responsible for new product launches, product demonstrations, 
+        analyses from the market/competition/consumers, marketing communication 
+        and developing assets for Philips Espresso and Saeco. 
         * Developed skills with Outlook, Excel, Word and Powerpoint.
 
 
