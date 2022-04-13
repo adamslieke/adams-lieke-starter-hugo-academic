@@ -25,7 +25,7 @@ experience:
   - title: Data Engineer
     company: Springbok agency
     company_url: ''
-    company_logo: 
+    company_logo: springbok
     location: Den Bosch
     date_start: '2021-12-01'
     date_end: ''
@@ -108,7 +108,6 @@ experience:
         analyses from the market/competition/consumers, marketing communication 
         and developing assets for Philips Espresso and Saeco. 
         * Developed skills with Outlook, Excel, Word and Powerpoint.
-
 
 design:
   columns: '2'
