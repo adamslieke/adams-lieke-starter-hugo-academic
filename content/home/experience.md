@@ -85,7 +85,7 @@ experience:
   - title: Marketing Intern Espresso
     company: Philips Healthcare Benelux
     company_url: ''
-    company_logo: org-x
+    company_logo: philips
     location:  Eindhoven
     date_start: '2019-09-01'
     date_end: '2020-02-28'
