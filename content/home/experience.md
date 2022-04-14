@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 40
 
 title: Experience
 subtitle:
@@ -29,7 +29,7 @@ experience:
     location: Den Bosch
     date_start: '2021-12-01'
     date_end: ''
-    description: |2-
+    description: >- |2-
         Responsibilities include:
         
         * Building valid datasets, data flows, (customer specific) connections and tables.
@@ -46,7 +46,7 @@ experience:
     location: Tilburg
     date_start: '2020-12-01'
     date_end: '2021-11-30'
-    description: |2-
+    description: >- |2-
         Responsibilities include:
         
         * The development of a new Wordpress website, creating designs and promotions materials for a new product line. 
@@ -59,7 +59,7 @@ experience:
     location: Breda
     date_start: '2020-09-01'
     date_end: '2020-12-01'
-    description: |2-
+    description:>- |2-
         Responsibilities include:
         
         * Same responsibilities/skills as the Junior Online Marketeer.
@@ -74,7 +74,7 @@ experience:
     location: Breda
     date_start: '2019-12-01'
     date_end: '2020-09-31'
-    description: |2-
+    description:>- |2-
         Responsibilities include:
         
         * The development and optimization of SEO-websites and web shops.
@@ -89,7 +89,7 @@ experience:
     location:  Eindhoven
     date_start: '2019-09-01'
     date_end: '2020-02-28'
-    description: |2-
+    description:>- |2-
         Responsibilities include:
         
         * Responsible for supporting the Marketing Manager Espresso.
@@ -105,7 +105,7 @@ experience:
     location:  Tilburg
     date_start: '2017-01-01'
     date_end: '2019-12-31'
-    description: |2-
+    description:>- |2-
         Responsibilities include:
         
         * Filming lectures
@@ -118,7 +118,7 @@ experience:
     location:  Tilburg
     date_start: '2017-01-01'
     date_end: '2019-12-31'
-    description: |2-
+    description:>- |2-
         Responsibilities include:
         
         * Giving presentations to high school students about all the economically related study programs Tilburg University has to offer.
