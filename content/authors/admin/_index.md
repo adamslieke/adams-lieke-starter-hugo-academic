@@ -24,11 +24,11 @@ interests:
 
 # Education to show in About widget
 education:
-  diploma's:
-  - diploma: Msc. Marketing Analytics
+  courses:
+  - course: Msc. Marketing Analytics
     institution: Tilburg University
     year: 2022
-  - diploma: BSc in International Business Administration
+  - course: BSc in International Business Administration
     institution: Tilburg University
     year: 2021
 
