@@ -66,7 +66,22 @@ experience:
         * Supervisor of the Junior Online Marketeers.
         * Responsible for developing the planning, educating new employees and 
         in charge of the budget allocation to different campaigns.
-
+      
+  - title: Senior Online Marketeer
+    company: G-Promotion
+    company_url: ''
+    company_logo: org-x
+    location: Breda
+    date_start: '2020-09-01'
+    date_end: '2020-12-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Same responsibilities/skills as the Junior Online Marketeer.
+        * Supervisor of the Junior Online Marketeers.
+        * Responsible for developing the planning, educating new employees and 
+        in charge of the budget allocation to different campaigns.
+        
 design:
   columns: '2'
 ---
