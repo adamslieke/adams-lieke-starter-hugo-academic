@@ -27,10 +27,10 @@ education:
   courses:
   - course: Msc. Marketing Analytics
     institution: Tilburg University
-    year: 2022
+    year: 2021-2022
   - course: BSc in International Business Administration
     institution: Tilburg University
-    year: 2021
+    year: 2015-2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
