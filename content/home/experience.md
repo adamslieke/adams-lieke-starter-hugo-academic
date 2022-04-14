@@ -86,6 +86,32 @@ experience:
         * Responsible for supporting the Marketing Manager Espresso.
         * Responsible for new product launches, product demonstrations, analyses from the market/competition/consumers, marketing communication and developing assets for Philips Espresso and Saeco. 
         * Developed skills with Outlook, Excel, Word and Powerpoint.
+        
+  - title: Student employee Video Registration
+    company: Tilburg University
+    company_url: 'https://www.tilburguniversity.edu/'
+    company_logo: tiu
+    location: Tilburg
+    date_start: '2017-01-01'
+    date_end: '2019-12-31'
+    description: |2-
+        Responsibilities include:
+        
+        * Filming lectures.
+        * Working as stand-by at the IT department at Tilburg University.
+
+  - title: Study/Courses Promotion TiSEM
+    company: Tilburg University
+    company_url: 'https://www.tilburguniversity.edu/'
+    company_logo: tiu
+    location: Tilburg
+    date_start: '2017-01-01'
+    date_end: '2019-12-31'
+    description: |2-
+        Responsibilities include:
+        
+        * Giving presentations to high school students about all the economically related study programs Tilburg University has to offer.
+        * Received training in speaking in front of big crowds, in English and Dutch
 
         
 design:
