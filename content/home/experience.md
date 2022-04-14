@@ -126,5 +126,5 @@ experience:
 
 
 design:
-  columns: '5'
+  columns: '2'
 ---
