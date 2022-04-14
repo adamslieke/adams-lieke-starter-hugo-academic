@@ -42,7 +42,7 @@ experience:
   - title: Online Marketing Manager
     company: Lijmpartner B.V.
     company_url: 'https://www.lijmpartnershop.nl/'
-    company_logo: org-x
+    company_logo: lijmp
     location: Tilburg
     date_start: '2020-12-01'
     date_end: '2021-11-30'
