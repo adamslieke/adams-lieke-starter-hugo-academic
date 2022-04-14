@@ -60,13 +60,15 @@ experience:
     date_start: '2020-09-01'
     date_end: '2020-12-01'
     description: |2-
-        Responsibilities include:
+        Senior Online Marketeer responsibilities include:
         
         * Same responsibilities/skills as the Junior Online Marketeer.
         * Supervisor of the Junior Online Marketeers.
         * Responsible for developing the planning, educating new employees and 
         in charge of the budget allocation to different campaigns.
-        Junior Online Marketeer responsibilities:
+        
+        Junior Online Marketeer responsibilities include:
+        
         * The development and optimization of SEO-websites and web shops.
         * The development and optimization of Google Ads, Facebook ads and Instagram ads campaigns.
         * Responsible for customer, developer and designer communication.
