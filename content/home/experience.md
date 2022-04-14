@@ -85,7 +85,7 @@ experience:
   - title: Marketing Intern Espresso
     company: Philips Healthcare Benelux
     company_url: ''
-    company_logo: philips
+    company_logo:
     location:  Eindhoven
     date_start: '2019-09-01'
     date_end: '2020-02-28'
@@ -97,6 +97,20 @@ experience:
         analyses from the market/competition/consumers, marketing communication 
         and developing assets for Philips Espresso and Saeco. 
         * Developed skills with Outlook, Excel, Word and Powerpoint.
+
+  - title: Student employee Video Registration
+    company: Tilburg University
+    company_url: ''
+    company_logo:
+    location:  Tilburg
+    date_start: '2017-01-01'
+    date_end: '2019-12-31'
+    description: |2-
+        Responsibilities include:
+        
+        * Filming lectures
+        * Working as stand-by at the IT department at Tilburg University
+
 
 design:
   columns: '2'
