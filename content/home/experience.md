@@ -25,7 +25,7 @@ experience:
   - title: Data Engineer
     company: Springbok agency
     company_url: ''
-    company_logo: springbok
+    company_logo:
     location: Den Bosch
     date_start: '2021-12-01'
     date_end: ''
@@ -39,14 +39,19 @@ experience:
         * Develop data flow’s with cloud infrastructures.
         * Develop dashboards and tools for customers in order to visualise the data in a comprehensible and easy way.
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Online Marketing Manager
+    company: Lijmpartner B.V.
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Tilburg
+    date_start: '2020-12-01'
+    date_end: '2021-11-30'
+    description: |2-
+        Responsibilities include:
+        
+        * The development of a new Wordpress website, creating designs and promotions materials for a new product line. 
+        * Maintainting social media accounts, optimizing (SEO) and maintaining the company websites, and generating online sales through a Wordpress webshop and via bol.com.
+
 
 design:
   columns: '2'
