@@ -66,11 +66,15 @@ experience:
         * Supervisor of the Junior Online Marketeers.
         * Responsible for developing the planning, educating new employees and 
         in charge of the budget allocation to different campaigns.
+        Junior Online Marketeer responsibilities:
+        * The development and optimization of SEO-websites and web shops.
+        * The development and optimization of Google Ads, Facebook ads and Instagram ads campaigns.
+        * Responsible for customer, developer and designer communication.
 
   - title: Marketing Intern Espresso
     company: Philips Healthcare Benelux
     company_url: ''
-    company_logo: org-x
+    company_logo: philips
     location: Eindhoven
     date_start: '2019-09-01'
     date_end: '2020-02-28'
