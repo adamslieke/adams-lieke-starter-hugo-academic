@@ -25,7 +25,7 @@ experience:
   - title: Data Engineer
     company: Springbok agency
     company_url: ''
-    company_logo: org-gc
+    company_logo: springbok
     location: Den Bosch
     date_start: '2021-12-01'
     date_end: ''
@@ -33,11 +33,9 @@ experience:
         Responsibilities include:
         
         * Building valid datasets, data flows, (customer specific) connections and tables.
-        * Implementing and managing measurements, data flow’s and optimalization 
-        with Python and SQL.
+        * Implementing and managing measurements, data flow’s and optimalization with Python and SQL.
         * Perform periodic or ad hoc data-analyses in Big Data.
-        * Signal and pro-actively search for opportunities for optimalizations, 
-        conversions, segmentation or automation.
+        * Signal and pro-actively search for opportunities for optimalizations, conversions, segmentation or automation.
         * Develop data flow’s with cloud infrastructures.
         * Develop dashboards and tools for customers in order to visualise the data in a comprehensible and easy way.
         
