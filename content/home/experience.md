@@ -22,28 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Data Engineer
-    company: Springbok agency
+  - title: CEO
+    company: GenCoin
     company_url: ''
-    company_logo: springbok
-    location: Den Bosch
-    date_start: '2021-12-01'
+    company_logo: org-gc
+    location: California
+    date_start: '2021-01-01'
     date_end: ''
     description: |2-
-        Springbok is a Google Cloud certified partner that reinvents digital for 
-        ambitious brands. 
         Responsibilities include:
         
-        * Building valid datasets, data flows, (customer specific) connections 
-        and tables.
-        * Implementing and managing measurements, data flow’s and optimalization 
-        with Python and SQL.
-        * Perform periodic or ad hoc data-analyses in Big Data.
-        * Signal and pro-actively search for opportunities for optimalizations, 
-        conversions, segmentation or automation.
-        * Develop data flow’s with cloud infrastructures.
-        * Develop dashboards and tools for customers in order to visualise the 
-        data in a comprehensible and easy way.
+        * Analysing
+        * Modelling
+        * Deploying
+        
+  - title: Professor of Semiconductor Physics
+    company: University X
+    company_url: ''
+    company_logo: org-x
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
