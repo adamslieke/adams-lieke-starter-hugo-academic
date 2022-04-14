@@ -24,8 +24,8 @@ date_format: Jan 2006
 experience:
   - title: Data Engineer
     company: Springbok agency
-    company_url: ''
-    company_logo:
+    company_url: 'https://www.springbokagency.com/'
+    company_logo: springbok
     location: Den Bosch
     date_start: '2021-12-01'
     date_end: ''
@@ -75,7 +75,7 @@ experience:
 
   - title: Marketing Intern Espresso
     company: Philips Healthcare Benelux
-    company_url: ''
+    company_url: 'https://www.philips.nl/healthcare'
     company_logo: philips
     location: Eindhoven
     date_start: '2019-09-01'
