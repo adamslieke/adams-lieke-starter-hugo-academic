@@ -41,7 +41,7 @@ experience:
         
   - title: Online Marketing Manager
     company: Lijmpartner B.V.
-    company_url: ''
+    company_url: 'https://www.lijmpartnershop.nl/'
     company_logo: org-x
     location: Tilburg
     date_start: '2020-12-01'
@@ -52,12 +52,12 @@ experience:
         * The development of a new Wordpress website, creating designs and promotions materials for a new product line. 
         * Maintainting social media accounts, optimizing (SEO) and maintaining the company websites, and generating online sales through a Wordpress webshop and via bol.com.
 
-  - title: Senior Online Marketeer
+  - title: Junior & Senior Online Marketeer
     company: G-Promotion
-    company_url: ''
+    company_url: 'https://g-promotion.nl/'
     company_logo: org-x
     location: Breda
-    date_start: '2020-09-01'
+    date_start: '2019-12-01'
     date_end: '2020-12-01'
     description: |2-
         Senior Online Marketeer responsibilities include:
@@ -68,20 +68,6 @@ experience:
         in charge of the budget allocation to different campaigns.
         
         Junior Online Marketeer responsibilities include:
-        
-        * The development and optimization of SEO-websites and web shops.
-        * The development and optimization of Google Ads, Facebook ads and Instagram ads campaigns.
-        * Responsible for customer, developer and designer communication.
-
-  - title: Junior Online Marketeer
-    company: G-Promotion
-    company_url: ''
-    company_logo: org-x
-    location: Breda
-    date_start: '2019-12-01'
-    date_end: '2020-09-31'
-    description: |2-
-        Responsibilities include:
         
         * The development and optimization of SEO-websites and web shops.
         * The development and optimization of Google Ads, Facebook ads and Instagram ads campaigns.
