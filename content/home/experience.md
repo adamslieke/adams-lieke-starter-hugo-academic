@@ -52,6 +52,20 @@ experience:
         * The development of a new Wordpress website, creating designs and promotions materials for a new product line. 
         * Maintainting social media accounts, optimizing (SEO) and maintaining the company websites, and generating online sales through a Wordpress webshop and via bol.com.
 
+  - title: Senior Online Marketeer
+    company: G-Promotion
+    company_url: ''
+    company_logo: org-x
+    location: Tilburg
+    date_start: '2020-09-01'
+    date_end: '2020-12-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Same responsibilities/skills as the Junior Online Marketeer.
+        * Supervisor of the Junior Online Marketeers.
+        * Responsible for developing the planning, educating new employees and 
+        in charge of the budget allocation to different campaigns.
 
 design:
   columns: '2'
