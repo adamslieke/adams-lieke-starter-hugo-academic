@@ -29,7 +29,7 @@ experience:
     location: Den Bosch
     date_start: '2021-12-01'
     date_end: ''
-    description: >- |2-
+    description: |2-
         Responsibilities include:
         
         * Building valid datasets, data flows, (customer specific) connections and tables.
@@ -46,7 +46,7 @@ experience:
     location: Tilburg
     date_start: '2020-12-01'
     date_end: '2021-11-30'
-    description: >- |2-
+    description: |2-
         Responsibilities include:
         
         * The development of a new Wordpress website, creating designs and promotions materials for a new product line. 
@@ -59,7 +59,7 @@ experience:
     location: Breda
     date_start: '2020-09-01'
     date_end: '2020-12-01'
-    description:>- |2-
+    description: |2-
         Responsibilities include:
         
         * Same responsibilities/skills as the Junior Online Marketeer.
