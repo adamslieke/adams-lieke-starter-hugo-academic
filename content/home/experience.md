@@ -78,6 +78,20 @@ experience:
         Responsibilities include:
         
         * The development and optimization of SEO-websites and web shops.
+        * The development and optimization of Google Ads, Facebook ads and Instagram ads campaigns.
+        * Responsible for customer, developer and designer communication.
+
+  - title: Marketing Intern Espresso
+    company: Philips Healthcare Benelux
+    company_url: ''
+    company_logo: org-x
+    location: Breda
+    date_start: '2019-12-01'
+    date_end: '2020-09-31'
+    description: |2-
+        Responsibilities include:
+        
+        * The development and optimization of SEO-websites and web shops.
         * The development and optimization of Google Ads, Facebook ads and 
         Instagram ads campaigns.
         * Responsible for customer, developer and designer communication.
