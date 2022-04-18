@@ -1,18 +1,25 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: StudentenBevrijdingsFestival - Published Dutch News.
+subtitle: During the preparations of the tenth edition of het Studentenbevrijdingsfestival in Tilburg, the organisation found out about a student who studied in Tilburg during the second World War. We were featured in a Dutch Newspaper atricle about Frans Linders (the veteran attending the festival) and our Festival.
+Read the full article {{< staticref "https://www.bd.nl/tilburg/student-die-de-duitsers-weerstond-komt-vrijheidsvuur-in-tilburg-ontsteken~a6141662/?referrer=https%3A%2F%2Fwww.google.com%2F " "newtab" >}}here{{< /staticref >}}.
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Freedom is a great thing. For us students it is very normal that we can study, have a drink on a terrace and cycle home safely in the middle of the night. That we can say what we want and live carefree. For many people this was and still is not the case. Sunday the 5th of May we celebrate together the freedom we enjoy here and we honor the people who have taken care of this and still take care of it. The StudentenBevrijdingsFestival is again a place for plenty of dancing however also remembering the importance of freedom. Organized by students for students.
+
+My responsibilities were for the external and internal communication of the festival. During my period in the board we accomplished the following things:
+- First year to get a partnership with the local government, due to the fact that we started to change the image of the festival to a more socially responsible festival. 
+- Working together with a WWII veteran, Frans Linders, who became the face of our festival. 
+- Get a partnership with the official Oranje Comité. 
+- Had a group of track runners run the official "liberation fire" to Tilburg all the way from Wageningen.  know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: "2020-12-13T00:00:00Z"
+date: "2017-08-01T00:00:00Z"
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2018-05-05T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -23,22 +30,19 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: [**Studentenbevrijdingsfestival**](https://punt.avans.nl/app/uploads/2018/05/studentenbevrijdingsfestival.jpg)'
   focal_point: ""
   placement: 2
   preview_only: false
 
 authors:
 - admin
-- 吳恩達
 
 tags:
 - Academic
-- 开源
 
 categories:
 - Demo
-- 教程
 ---
 
 ## Overview

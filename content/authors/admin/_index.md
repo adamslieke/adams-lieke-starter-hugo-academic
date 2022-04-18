@@ -65,7 +65,7 @@ highlight_name: true
 
 👋 Hi, I’m Lieke Adams 🌱 I’m currently finishing my Msc. Marketing Analytics at Tilburg University. 
 
-I am a student who tries to develop myself everyday even more besides my study program. During my studies I learned a lot in R & Python for my courses additionally I am also working part time as a Data engineer at Springbok. During this job I am developing in SQL, Python and dashboarding, the latter in order to visualize the data retrieved by my SQL scripts in Big Query.
+I am a student who tries to develop myself everyday even more besides my study program. During my studies I learned a lot in R & Python for my courses. Additionally I am working part time as a Data engineer at Springbok. As a Data engineer, I am developing in SQL, Python and dashboarding. The latter in order to visualize the data retrieved by my SQL scripts through Big Query in the Google Cloud Platform.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
