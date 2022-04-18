@@ -2,16 +2,10 @@
 title: StudentenBevrijdingsFestival - Published Dutch News.
 subtitle: During the preparations of the tenth edition of het Studentenbevrijdingsfestival in Tilburg, the organisation found out about a student who studied in Tilburg during the second World War. We were featured in a Dutch Newspaper atricle about Frans Linders (the veteran attending the festival) and our Festival.
 Read the full article 
-{{< figure src="https://www.bd.nl/tilburg/student-die-de-duitsers-weerstond-komt-vrijheidsvuur-in-tilburg-ontsteken~a6141662/?referrer=https%3A%2F%2Fwww.google.com%2F" title="news" >}}
+{{<src="https://www.bd.nl/tilburg/student-die-de-duitsers-weerstond-komt-vrijheidsvuur-in-tilburg-ontsteken~a6141662/?referrer=https%3A%2F%2Fwww.google.com%2F" title="here">}}
 
 # Summary for listings and search engines
-summary: Freedom is a great thing. For us students it is very normal that we can study, have a drink on a terrace and cycle home safely in the middle of the night. That we can say what we want and live carefree. For many people this was and still is not the case. Sunday the 5th of May we celebrate together the freedom we enjoy here and we honor the people who have taken care of this and still take care of it. The StudentenBevrijdingsFestival is again a place for plenty of dancing however also remembering the importance of freedom. Organized by students for students.
-
-My responsibilities were for the external and internal communication of the festival. During my period in the board we accomplished the following things:
-- First year to get a partnership with the local government, due to the fact that we started to change the image of the festival to a more socially responsible festival. 
-- Working together with a WWII veteran, Frans Linders, who became the face of our festival. 
-- Get a partnership with the official Oranje Comité. 
-- Had a group of track runners run the official "liberation fire" to Tilburg all the way from Wageningen.
+summary: Freedom is a great thing. For us students it is very normal that we can study, have a drink on a terrace and cycle home safely in the middle of the night. That we can say what we want and live carefree. For many people this was and still is not the case. Sunday the 5th of May we celebrate together the freedom we enjoy here and we honor the people who have taken care of this and still take care of it. The StudentenBevrijdingsFestival is a place for plenty of dancing however also remembering the importance of freedom. Organized by students for students.
 
 # Link this post with a project
 projects: []
