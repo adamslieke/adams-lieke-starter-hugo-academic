@@ -4,7 +4,7 @@ subtitle: During the preparations of the tenth edition of het Studentenbevrijdin
 
 
 # Summary for listings and search engines
-summary: Freedom is a great thing.
+summary: Freedom is a great thing. My role for the external and internal communication of this festival celebrating and remembering freedom.
 
 # Link this post with a project
 projects: []
