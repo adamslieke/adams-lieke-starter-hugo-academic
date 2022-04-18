@@ -30,7 +30,7 @@ education:
   - course: Msc. Marketing Analytics
     institution: Tilburg University
     year: 2021-2022
-  - course: BSc in International Business Administration
+  - course: BSc. International Business Administration
     institution: Tilburg University
     year: 2015-2020
 
