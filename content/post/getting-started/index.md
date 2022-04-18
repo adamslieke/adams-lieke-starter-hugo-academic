@@ -10,7 +10,7 @@ My responsibilities were for the external and internal communication of the fest
 - First year to get a partnership with the local government, due to the fact that we started to change the image of the festival to a more socially responsible festival. 
 - Working together with a WWII veteran, Frans Linders, who became the face of our festival. 
 - Get a partnership with the official Oranje Comité. 
-- Had a group of track runners run the official "liberation fire" to Tilburg all the way from Wageningen.  know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+- Had a group of track runners run the official "liberation fire" to Tilburg all the way from Wageningen.
 
 # Link this post with a project
 projects: []
