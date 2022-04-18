@@ -6,10 +6,12 @@ title: Lieke Adams
 superuser: true
 
 # Role/position/tagline
-role: Data Engineer
+role: Msc. Marketing analytics student & Data Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
+- name: Tilburg University
+  url: https://www.tilburguniversity.edu/
 - name: Springbok
   url: https://www.springbokagency.com/
 
@@ -61,9 +63,9 @@ email: "adamslieke@gmail.com"
 highlight_name: true
 ---
 
-Lieke Adams is an active student. Eager to learn more. Very neat and works structured. 
+👋 Hi, I’m Lieke Adams 🌱 I’m currently finishing my Msc. Marketing Analytics at Tilburg University. 
 
-These are a few sort sentences which would describe me. I am a student who tries to develop myself everyday even more besides my study program. Because of this and my other qualities, I think I would be a suitable, flexible, motivated and enthusiastic addition to a company
+I am a student who tries to develop myself everyday even more besides my study program. During my studies I learned a lot in R & Python for my courses additionally I am also working part time as a Data engineer at Springbok. During this job I am developing in SQL, Python and dashboarding, the latter in order to visualize the data retrieved by my SQL scripts in Big Query.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
