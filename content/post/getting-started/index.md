@@ -4,7 +4,7 @@ subtitle: During the preparations of the tenth edition of het Studentenbevrijdin
 
 
 # Summary for listings and search engines
-summary: Freedom is a great thing. My role for the external and internal communication of this festival celebrating and remembering freedom.
+summary: Freedom is a great thing. My role for the external and internal communication of this festival in order to celebrate and remember freedom.
 
 # Link this post with a project
 projects: []
@@ -62,7 +62,7 @@ My responsibilities were for the external and internal communication of the fest
 - [**Avans**](https://punt.avans.nl/2018/05/5-mei-tiende-editie-studentenbevrijdingsfestival-in-tilburg/)
 
 ## Studentenbevrijdingsfestival contact
-- [**Website**](https://wowchemy.com/templates/)
-- Instagram: [@studentenbevrijdingsfestival](https://twitter.com/wowchemy)
-- [Facebook**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
+- [**Website**](https://www.studentenbevrijdingsfestival.nl/)
+- Instagram: [@katerlunabevrijdingsfestival](https://www.instagram.com/katerlunabevrijdingsfestival/?hl=nl)
+- [**Facebook**](https://m.facebook.com/Studentenbevrijdingsfesitval/?ref=bookmarks&paipv=1)
 
