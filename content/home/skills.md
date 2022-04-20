@@ -17,8 +17,8 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 70%
-  icon: r-project
-  icon_pack: fab
+  icon: r-project-brands
+  icon_pack: 'custom'
   name: R
 - description: 20%
   icon: water-solid
@@ -33,8 +33,8 @@ feature:
   icon_pack: 'custom'
   name: SQL
 - description: 100%
-  icon: chart-line
-  icon_pack: fas
+  icon: chart-line-solid
+  icon_pack: 'custom'
   name: Statistics
 - description: 10%
   icon: bicycle-solid
