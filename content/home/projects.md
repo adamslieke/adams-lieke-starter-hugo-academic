@@ -27,8 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Rstudio
+    tag: Rstudio
+  - name: Python
+    tag: Python
+  - name: Github
+    tag: Github
   - name: Other
     tag: Demo
 
