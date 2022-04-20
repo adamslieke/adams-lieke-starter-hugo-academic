@@ -20,6 +20,10 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
+- description: 100%
+  icon: record-vinyl-solid
+  icon_pack: 'custom'
+  name: Vinyl-addict
 - description: 60%
   icon: python-brands
   icon_pack: 'custom'
