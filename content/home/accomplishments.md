@@ -27,6 +27,8 @@ item:
   date_end: "2025-02-14"
   date_start: "2022-02-14"
   description: ""
+  icon: google-brands
+  icon-pack: 'custom'
   organization: Google
   organization_url: https://analytics.google.com/
   title: Certification Google analytics advanced
