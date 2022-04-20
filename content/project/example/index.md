@@ -19,9 +19,9 @@ links:
   icon_pack: fab
   name: Follow the Repository
   url: https://github.com/jobantonis/Tweet-collection-and-analysis
-url_code: ""
+url_code: "https://github.com/jobantonis/Tweet-collection-and-analysis"
 url_pdf: ""
-url_slides: ""
+url_slides: "https://github.com/jobantonis/Tweet-collection-and-analysis"
 url_video: ""
 
 # Slides (optional).
