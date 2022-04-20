@@ -55,7 +55,7 @@ experience:
   - title: Junior & Senior Online Marketeer
     company: G-Promotion
     company_url: 'https://g-promotion.nl/'
-    company_logo: gprom
+    company_logo: google-brands
     location: Breda
     date_start: '2019-12-01'
     date_end: '2020-12-01'
