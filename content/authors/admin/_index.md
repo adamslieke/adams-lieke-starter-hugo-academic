@@ -64,7 +64,9 @@ email: "adamslieke@gmail.com"
 highlight_name: true
 ---
 
-👋 Hi, I’m Lieke Adams 🌱 I’m currently finishing my Msc. Marketing Analytics at Tilburg University. 
+👋 Hi, I’m Lieke Adams 🌱 I’m finishing my Msc. Marketing Analytics at Tilburg University.
+
+Currently I am looking for my next adventure where I can combine my programming skills with more stakeholder management and/or customer contact. 
 
 During my studies I learned a lot in R & Python for my courses. Additionally I am working part time as a Data engineer at Springbok. As a Data engineer, I am developing in SQL, Python and dashboarding. The latter in order to visualize the data retrieved by my SQL scripts through Big Query in the Google Cloud Platform.
 
