@@ -16,13 +16,14 @@ organizations:
   url: https://www.springbokagency.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include online marketing analytics, data engineering and racebiking.
+bio: My interests include online marketing analytics, data engineering, stakeholder management and racebiking.
 
 # Interests to show in About widget
 interests:
 - Online Marketing analytics
 - Data Engineering
-- Sentiment analysis
+- Stakeholder management
+- Racebiking
 
 # Education to show in About widget
 education:
@@ -65,7 +66,7 @@ highlight_name: true
 
 👋 Hi, I’m Lieke Adams 🌱 I’m currently finishing my Msc. Marketing Analytics at Tilburg University. 
 
-I am a student who tries to develop myself everyday even more besides my study program. During my studies I learned a lot in R & Python for my courses. Additionally I am working part time as a Data engineer at Springbok. As a Data engineer, I am developing in SQL, Python and dashboarding. The latter in order to visualize the data retrieved by my SQL scripts through Big Query in the Google Cloud Platform.
+During my studies I learned a lot in R & Python for my courses. Additionally I am working part time as a Data engineer at Springbok. As a Data engineer, I am developing in SQL, Python and dashboarding. The latter in order to visualize the data retrieved by my SQL scripts through Big Query in the Google Cloud Platform.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
