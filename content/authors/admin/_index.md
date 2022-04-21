@@ -31,6 +31,9 @@ education:
   - course: Msc. Marketing Analytics
     institution: Tilburg University
     year: 2021-2022
+  - course: Exchange Rome
+    institution: LUISS - Libera Universita Internationale degli Studi Sociali Guido Carli
+    year: 2017-2018
   - course: BSc. International Business Administration
     institution: Tilburg University
     year: 2015-2020
