@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: adamslieke@gmail.com
-  phone: -
+  phone: --
   address:
     street: -
     city: -
