@@ -26,12 +26,12 @@ content:
 
   # Contact details (edit or remove options as required)
   email: adamslieke@gmail.com
-  phone: +31618561316
+  phone: -
   address:
-    street: achter st. pieter 11G
-    city: Utrecht
-    postcode: '3512HP'
-    country: Nederland
+    street: -
+    city: -
+    postcode: -
+    country: -
   contact_links:
     - icon: linkedin
       icon_pack: fab
